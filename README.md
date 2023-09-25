@@ -1,4 +1,5 @@
-# Converte-texto-em-Fala-Javascript
+# Converte texto em fala 
+Foi utilizado a linguagem Javascript para sintetizar a voz, as vozes disponiveis no S.O é inserido no select via Javascript 
 
 ## Tecnologias utilizadas
 
